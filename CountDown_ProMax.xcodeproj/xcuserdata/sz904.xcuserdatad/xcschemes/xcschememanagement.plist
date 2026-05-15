@@ -7,7 +7,25 @@
 		<key>CountDown_ProMax.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
+		<key>CountDown_ProMax_WidgetsExtension.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>A51B14262F413CE5007CC574</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A532DAB62F4151C300DAE15C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
